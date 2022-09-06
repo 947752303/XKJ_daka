@@ -1,3 +1,7 @@
+# 如何修改？
+## 点击Settings --> Secrets --> Actions --> 右下角选择一个参数 --> Update 即可
+
+
 # 1. INFO
 隐私信息，不用修改
 
