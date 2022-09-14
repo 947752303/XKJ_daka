@@ -145,6 +145,7 @@ def run():
     headers["Cookie"] = cookies
     res = requests.post(url=url_daka, headers=headers, data=data)  # 健康打卡提交
     final = res.text
+    print(final)
     if final == "{}":
         print("打卡成功")
 
